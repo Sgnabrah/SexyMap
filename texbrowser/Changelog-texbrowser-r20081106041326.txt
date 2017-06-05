@@ -1,0 +1,5 @@
+Chris Heald (3):
+      74bced7: Initial commit; includes MPQTextures source for generating data list
+      3d51b24: Add right-click-to-copy texture option
+      a9d431a: Update data for 3.0.3
+

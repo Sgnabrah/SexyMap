@@ -1,0 +1,19 @@
+## Interface: 30000
+## Title: TexBrowser
+## Notes: A texture browser for developers and UI modders
+## Author: Antiarc
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## X-Category: Artwork
+## Version: 1.0
+## SavedVariables: TexBrowserDB
+## LoadOnDemand: 1
+## X-LoadOn-Slash: /tex
+## X-Curse-Packaged-Version: r20081106041326
+
+embeds.xml
+AceGUI3-TextureWidget.lua
+Data.lua
+TexBrowser.lua
+modules.xml
+
