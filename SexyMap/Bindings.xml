@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="SEXYMAP" header="SEXYMAP">
+		SexyMap:GetModule("HudMap"):Toggle()
+	</Binding>
+</Bindings>

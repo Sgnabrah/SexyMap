@@ -1,0 +1,35 @@
+## Interface: 30000
+## Title: SexyMap
+## Notes: SexyMap backport to 2.4.3
+## Author: Antiarc, Backport by Toxin
+## OptionalDeps: Ace3, Blizzard_TimeManager
+## SavedVariables: SexyMapDB
+## X-Curse-Packaged-Version: r20081214063730
+
+# Libraries, etc
+embeds.xml
+
+# Localization
+localization\enUS.lua
+localization\zhTW.lua
+localization\zhCN.lua
+
+# Core
+SexyMap.lua
+
+# Comes first, has default option set
+General.lua
+
+# Utility, doesn't actually have menu options
+Shapes.lua
+
+# Other modules
+AutoZoom.lua
+Buttons.lua
+BorderPresets.lua
+Borders.lua
+Coordinates.lua
+HudMap.xml
+HudMap.lua
+Ping.lua
+ZoneText.lua
